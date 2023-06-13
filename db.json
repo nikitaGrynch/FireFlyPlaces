@@ -1,0 +1,204 @@
+{
+  "places": [
+    {
+      "id": "1",
+      "name": "Fekete",
+      "photos": [
+        "https://media-cdn.tripadvisor.com/media/photo-s/13/f9/60/6b/fekete-cafe-budapest.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/1a/16/43/bd/photo0jpg.jpg",
+        "https://thecoffeevine.com/wp-content/uploads/2014/05/IMG_2246.jpg",
+        "https://images.ctfassets.net/314o13npeir2/6iP1BAt5ZsHz1xczSsiHe/3da810ddbf8bec68eb769959a505b2eb/fekete-cafe-budapest-21.jpg?w=1920&q=80",
+        "https://media-cdn.tripadvisor.com/media/photo-s/0d/53/d4/8b/patio.jpg"
+      ],
+      "category": "Coffee Bar",
+      "address_str": "Múzeum krt. 5, Budapest, Hungary",
+      "address_coords": [47.49370566268507, 19.059985040585712],
+      "hours": {
+        "Sun": "09:00 AM - 5:00 PM",
+        "Mon": "07:30 AM - 7:00 PM",
+        "Tue": "07:30 AM - 7:00 PM",
+        "Wed": "07:30 AM - 7:00 PM",
+        "Thu": "07:30 AM - 7:00 PM",
+        "Fri": "07:30 AM - 7:00 PM",
+        "Sat": "08:30 AM - 7:00 PM"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Mazel Tov",
+      "photos": [
+        "https://media-cdn.tripadvisor.com/media/photo-s/25/a7/11/ba/mazel-tov.jpg",
+        "https://onthegrid.city/imager/s3_amazonaws_com/onthegrid.city/assets/grid/budapest/jewish-quarter/mazel-tov/mazel-tov-6_299006722e285f47655d17d1c9136337.jpg",
+        "https://mrhudsonexplores.com/wp-content/uploads/2020/03/Mazel-Tov-Interior-©-Mazel-Tov-.jpg",
+        "https://i0.wp.com/midlandstraveller.com/wp-content/uploads/2019/10/mazel-tov-_6.jpg?resize=642%2C340&ssl=1",
+        "https://media-cdn.tripadvisor.com/media/photo-f/0e/1d/49/5e/mazel-tov-akacfa-47.jpg"
+      ],
+      "category": "Restaurant",
+      "address_str": "Akácfa u. 47, Budapest, Hungary",
+      "address_coords": [47.500388791451876, 19.065711768193193],
+      "hours": {
+        "Sun": "12:00 PM - 12:00 AM",
+        "Mon": "12:00 PM - 12:00 AM",
+        "Tue": "12:00 PM - 12:00 AM",
+        "Wed": "12:00 PM - 12:00 AM",
+        "Thu": "12:00 PM - 12:00 AM",
+        "Fri": "12:00 PM - 12:00 AM",
+        "Sat": "12:00 PM - 12:00 AM"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Szimpla Kert",
+      "photos": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/f8/1f/38/szimpla-kert.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/6f/20/4a/caption.jpg?w=1400&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/62/59/b2/bar.jpg?w=1400&h=-1&s=1",
+        "https://www.worldsbestbars.com/wp-content/uploads/2018/04/bar_640_480_16_5656e2ad5554c.jpg",
+        "https://storage.googleapis.com/welove-media/00/szimpla-zsendovits-abel_balkanyi-laszlo_20150414.exact1980w.jpg"
+      ],
+      "category": "Pub",
+      "address_str": "Kazinczy u. 14, Budapest, Hungary",
+      "address_coords": [47.496944543223854, 19.062791568192957],
+      "hours": {
+        "Sun": "12:00 PM - 4:00 AM",
+        "Mon": "12:00 PM - 4:00 AM",
+        "Tue": "12:00 PM - 4:00 AM",
+        "Wed": "12:00 PM - 4:00 AM",
+        "Thu": "12:00 PM - 4:00 AM",
+        "Fri": "12:00 PM - 4:00 AM",
+        "Sat": "12:00 PM - 4:00 AM"
+      }
+    },
+    {
+      "id": "4",
+      "name": "My Little Melbourne",
+      "photos": [
+        "https://images.ctfassets.net/314o13npeir2/7lIhtniSfYfZ8nO6ZlZmFO/9df1b8c9d3ede59d3adc4c2252442a78/my-little-melbourne-budapest-19.jpg?w=1920&q=80",
+        "https://media-cdn.tripadvisor.com/media/photo-w/0c/93/a2/0b/photo0jpg.jpg",
+        "https://onthegrid.city/imager/s3_amazonaws_com/onthegrid.city/assets/grid/budapest/jewish-quarter/my-little-melbourne/my-little-melbourne-3_299006722e285f47655d17d1c9136337.jpg",
+        "https://images.ctfassets.net/314o13npeir2/6ywJcjDMLZnQTqmnglp4Y0/211cf355ca70dda66252d690b50cf89f/my-little-melbourne-budapest-23.jpg?w=1920&q=80"
+      ],
+      "category": "Coffee Bar",
+      "address_str": "Madách Imre út 3, Budapest, Hungary",
+      "address_coords": [47.49785209740513, 19.057783897029456],
+      "hours": {
+        "Sun": "08:00 AM - 7:00 PM",
+        "Mon": "07:00 AM - 7:00 PM",
+        "Tue": "07:00 AM - 7:00 PM",
+        "Wed": "07:00 AM - 7:00 PM",
+        "Fri": "07:00 AM - 7:00 PM",
+        "Sat": "08:00 AM - 7:00 PM"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Pest-Buda Bistro",
+      "photos": [
+        "https://media-cdn.tripadvisor.com/media/photo-s/0e/84/70/b9/pest-buda-bi.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-f/0d/db/86/b4/pest-buda-bistro.jpg",
+        "https://welovebudapest.com/i/1c/pest-buda-restaurant.inbox780x585.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/1a/33/0a/35/pesh-buda-bistro.jpg"
+      ],
+      "category": "Restaurant",
+      "address_str": "Fortuna u. 3, Budapest, Hungary",
+      "address_coords": [47.50355226664345, 19.032566270048413],
+      "hours": {
+        "Sun": "07:30 AM - 12:00 PM",
+        "Mon": "07:30 AM - 12:00 PM",
+        "Tue": "07:30 AM - 12:00 PM",
+        "Wed": "07:30 AM - 12:00 PM",
+        "Thu": "07:30 AM - 12:00 PM",
+        "Fri": "07:30 AM - 12:00 PM",
+        "Sat": "07:30 AM - 12:00 PM"
+      }
+    },
+    {
+      "id": "6",
+      "name": "Élesztő",
+      "photos": [
+        "https://images.ctfassets.net/314o13npeir2/60XM0EawIA6o1DA0v6IscO/ed1ff27c49d2a0a47d9ebe0480564eea/eleszto-craft-beer-bar-budapest-33.jpg?w=1920&q=80",
+        "https://media-cdn.tripadvisor.com/media/photo-f/19/f3/e4/2c/elesztohaz-pancs-gasztropiac.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/19/f3/e1/2c/elesztohaz-pancs-gasztropiac.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/0e/d9/72/9c/eleszto-craft-beer-bar.jpg",
+        "https://images.ctfassets.net/314o13npeir2/2XcWxHyzRe56tiE4PuAbfs/25d04d02e901c3c4891fe0f1b7a44ad4/eleszto-craft-beer-bar-budapest-31.jpg?w=1920&q=80"
+      ],
+      "category": "Pub",
+      "address_str": "Tűzoltó u. 22, Budapest, Hungary",
+      "address_coords": [47.48375553271478, 19.072703825865048],
+      "hours": {
+        "Sun": "3:00 PM - 01:00 AM",
+        "Mon": "3:00 PM - 01:00 AM",
+        "Tue": "3:00 PM - 01:00 AM",
+        "Wed": "3:00 PM - 2:00 AM",
+        "Thu": "3:00 PM - 01:00 AM",
+        "Fri": "3:00 PM - 3:00 AM",
+        "Sat": "3:00 PM - 01:00 AM"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Blue Bird Café",
+      "photos": [
+        "https://images.ctfassets.net/314o13npeir2/6ACR0lLDcd8xBMf8VqY9HD/f1d9fdeb41436543bdbd99741919eff0/blue-bird-coffee-budapest-10.jpg?w=1920&q=80",
+        "https://media-cdn.tripadvisor.com/media/photo-w/1b/6c/fc/7b/bluebird-reload-party.jpg",
+        "https://bbgroup.hu/img/gallery/cafe/2.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/1a/35/97/55/parrots.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/09/1c/3a/13/blue-bird-cafe.jpg"
+      ],
+      "category": "Coffee Bar",
+      "address_str": "Szent István krt. 16, Budapest, Hungary",
+      "address_coords": [47.51232769649894, 19.051742654703165],
+      "hours": {
+        "Sun": "09:00 AM - 8:00 PM",
+        "Mon": "07:30 AM - 7:00 PM",
+        "Tue": "07:30 AM - 7:00 PM",
+        "Wed": "07:30 AM - 7:00 PM",
+        "Thu": "07:30 AM - 7:00 PM",
+        "Fri": "07:30 AM - 7:00 PM",
+        "Sat": "08:30 AM - 8:00 PM"
+      }
+    },
+    {
+      "id": "8",
+      "name": "Borkonyha Winekitchen",
+      "photos": [
+        "https://www.hungryformore-mag.com/wp-content/uploads/2016/07/restaurant_borkonyha_budapest_interior_2-1080x720.jpg",
+        "https://intravel.net/Content/images/places/originals/borkonyha-winekitchen-restaurant-photo-17041810014275.jpg",
+        "https://www.hungryformore-mag.com/wp-content/uploads/2016/07/restaurant_borkonyha_budapest_location_3-1080x720.jpg"
+      ],
+      "category": "Restaurant",
+      "address_str": "Sas u. 3, Budapest, Hungary",
+      "address_coords": [47.49966493169321, 19.052597283538866],
+      "hours": {
+        "Sun": "08:00 AM - 8:00 PM",
+        "Mon": "07:30 AM - 6:00 PM",
+        "Tue": "07:30 AM - 6:00 PM",
+        "Wed": "07:30 AM - 6:00 PM",
+        "Thu": "07:30 AM - 6:00 PM",
+        "Fri": "07:30 AM - 6:00 PM",
+        "Sat": "08:30 AM - 8:00 PM"
+      }
+    },
+    {
+      "id": "9",
+      "name": "Szoda Bisztró",
+      "photos": [
+        "https://etterem.hu/img/max960/p423n/1348221223-5707.jpg",
+        "https://etterem.hu/img/x/p423n/1353767572-2922.jpg",
+        "https://etterem.hu/img/max960/p423n/1353767571-4851.jpg"
+      ],
+      "category": "Pub",
+      "address_str": "Király u. 20, Budapest, Hungary",
+      "address_coords": [47.49937178425774, 19.058146683538748],
+      "hours": {
+        "Sun": "09:00 AM - 5:00 PM",
+        "Mon": "07:30 AM - 7:00 PM",
+        "Tue": "07:30 AM - 7:00 PM",
+        "Wed": "07:30 AM - 7:00 PM",
+        "Thu": "07:30 AM - 7:00 PM",
+        "Fri": "07:30 AM - 7:00 PM",
+        "Sat": "08:30 AM - 7:00 PM"
+      }
+    }
+  ]
+}
