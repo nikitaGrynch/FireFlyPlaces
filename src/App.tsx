@@ -7,7 +7,6 @@ import HomePage from "./components/HomePage";
 import PlaceDescription from "./components/PlaceDescription";
 
 function App() {
-
   return (
     <div className="">
       <Routes>

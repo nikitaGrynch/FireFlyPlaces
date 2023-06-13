@@ -1,13 +1,15 @@
 import { GoogleMap, Marker, useLoadScript } from "@react-google-maps/api";
 import React from "react";
 
+
 interface MapProps{
     coords: number[]
 }
 
 const Map = ({coords}: MapProps) => {
+    const api: string = "AIzaSyBr1mbF3Najea1eVTyl1qMUqqSr0Nimcwg";
   const { isLoaded } = useLoadScript({
-    googleMapsApiKey: "",
+    googleMapsApiKey: api,
   });
 
   if (!isLoaded) return <div>Loading...</div>
